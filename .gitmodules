@@ -1,0 +1,3 @@
+[submodule "ClienteApiGam"]
+	path = ClienteApiGam
+	url = https://github.com/silviamescof/ClienteApiGam.git
